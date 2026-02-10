@@ -57,6 +57,4 @@ This page focuses on external factors that can influence operational performance
 
 ## 📌 Notes
 
-## 📌 Notes
-
 This dashboard uses simulated data for demonstration purposes and can be easily extended to integrate real-time operational and weather data sources.
